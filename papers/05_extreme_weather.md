@@ -33,3 +33,7 @@ ML approaches for predicting, simulating, and understanding high-impact weather 
 - **[AIWP TC Evaluation]** (arXiv 2024) — *Systematic evaluation of multiple AI weather models for tropical cyclone track and intensity forecasting, revealing limitations of AI intensity prediction.*
   - 📄 [Paper](https://arxiv.org/abs/2409.06735)
   - 👥 Tao Lian et al.
+
+- **[3DTCR]** (arXiv 2026.03) — *Physics-based conditional Flow Matching framework for vortex-following 3D TC structure reconstruction, reducing WS10M RMSE by 36.5% over FuXi and surpassing ECMWF-HRES at nearly all lead times up to 5 days.*
+  - 📄 [Paper](https://arxiv.org/abs/2603.13049)
+  - 👥 Hao Li et al. (Fudan University / SIAIS)
