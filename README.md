@@ -1,154 +1,204 @@
-# <p align=center>Awesome-Weather-Forecast</p>
-<!--# <p align=center>`Awesome-Weather-Forecast`</p>-->
-<div align=center>
+# <p align="center">Awesome-Weather-Forecast</p>
 
-<p>
+<div align="center">
 
- ![GitHub stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast.svg?color=red&style=for-the-badge)
- ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast.svg?style=for-the-badge)
- ![GitHub activity](https://img.shields.io/github/last-commit/zhengkai15/Awesome-Weather-Forecast?color=yellow&style=for-the-badge)
- ![GitHub issues](https://img.shields.io/github/issues/zhengkai15/Awesome-Weather-Forecast?style=for-the-badge)
- ![GitHub closed issues](https://img.shields.io/github/issues-closed/zhengkai15/Awesome-Weather-Forecast?color=inactive&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast.svg?color=red&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast.svg?style=for-the-badge)
+![GitHub activity](https://img.shields.io/github/last-commit/zhengkai15/Awesome-Weather-Forecast?color=yellow&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/zhengkai15/Awesome-Weather-Forecast?style=for-the-badge)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/zhengkai15/Awesome-Weather-Forecast?color=inactive&style=for-the-badge)
 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhengkai15%2FAwesome-Weather-Forecast&count_bg=%23DD4B78&title_bg=%23555555&icon=jabber.svg&icon_color=%23E7E7E7&title=Hits(2024.02~)&edge_flat=false)](https://hits.seeyoufarm.com)
- [![Star History Chart](https://api.star-history.com/svg?repos=zhengkai15/Awesome-Weather-Forecast&type=Date)](https://star-history.com/#zhengkai15/Awesome-Weather-Forecast&Date)
-</p>
-An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhengkai15%2FAwesome-Weather-Forecast&count_bg=%23DD4B78&title_bg=%23555555&icon=jabber.svg&icon_color=%23E7E7E7&title=Hits(2024.02~)&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhengkai15/Awesome-Weather-Forecast&type=Date)](https://star-history.com/#zhengkai15/Awesome-Weather-Forecast&Date)
 
-<div align=left>
+</div>
 
-## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
-* [✅] Create [**⏳Recently Focused Papers**](https://github.com/zhengkai15/Awesome-Weather-Forecast/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
+A curated list of papers and resources on **AI-driven weather forecasting**, covering deep learning, generative models, foundation models, and more across the full forecasting pipeline — from data assimilation to sub-seasonal prediction.
 
-## *Content*
-* *Assimilation Forecasting System*
-  * * ⭐(Arxiv preprint 2024) *ardvark weather* [[Paper](https://arxiv.org/abs/2408.05472)]
-    * 🍬 ardvark weather:End-to-end data-driven weather prediction
-  * * ⭐(Arxiv preprint 2024) *FuXi Weather* [[Paper](https://arxiv.org/abs/2408.05472)]
-    * 🍬 Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations
+> **Want to contribute?** See [CONTRIBUTING.md](./CONTRIBUTING.md) · Submit via [Issues](https://github.com/zhengkai15/Awesome-Weather-Forecast/issues/new/choose) or PR · Maintained by [@zhengkai15](https://zhengkai15.github.io/)
 
-* *Medium Range*:
-  * ⭐(Nature 2023) *Aurora*, Cristian Bodnar et al. [[Paper](https://arxiv.org/abs/2405.13063)]
-    * 🍬 A Foundation Model for the Earth System.
-  * ⭐(Nature 2023) *GenCast*, Ilan Price et al. [[Paper](https://arxiv.org/abs/2312.15796)]
-    * 🍬 GenCast: Diffusion-based ensemble forecasting for medium-range weather.
-  * ⭐(Nature 2023) *FuXi*, chen2023fuxi et al. [[Paper](https://www.nature.com/articles/s41612-023-00512-1)]
-    * 🍬 FuXi: ***the first*** : A cascade machine learning forecasting system for 15-day global weather forecast.
-  * ⭐(Nature 2023) *Pangu*,[[Paper](https://www.nature.com/articles/s41586-023-06185-3)]
-    * 🍬 Pangu: ***the first*** : Accurate medium-range global weather forecasting with 3D neural networks.
-  * ⭐(Science 2023) *GraphCast*, [[Paper](https://www.science.org/doi/10.1126/science.adi2336)]
-    * 🍬 GraphCast: ***the first*** : Learning skillful medium-range global weather forecasting.
-  * ⭐(Arxiv preprint 2023) *FengWu*, [[Paper](https://arxiv.org/abs/2304.02948)]
-    * 🍬 GraphCast: ***the first*** : FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead.
-  * ⭐(Website 2023) *ClimaX*, [[Paper](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)]
-    * 🍬 ClimaX: ***the first*** : The first foundation model for weather and climate.
-  * ⭐(Arxiv preprint 2023) *W-MAE*, [[Paper](https://arxiv.org/abs/2304.08754)]
-    * 🍬 W-MAE: ***the first*** : W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting
-  * ⭐(Arxiv preprint 2023) *SAFNO*, [[Paper](https://arxiv.org/pdf/2306.03838.pdf)]
-    * 🍬 SAFNO: ***the first*** : Spherical Fourier Neural Operators:Learning Stable Dynamics on the Sphere
-  * ⭐(Arxiv preprint 2022) *FourCastNet*, [[Paper](https://arxiv.org/abs/2202.11214)]
-    * 🍬 FourCastNet: ***the first*** : FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators
+---
 
-* *NowCasting*:
-  * *Precipitation*:
-    * ⭐(CVPR 2025) *AlphaPre*, [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.pdf)] [[Code](https://github.com/linkenghong/AlphaPre)]
-      * 🍬 AlphaPre: Amplitude-Phase Disentanglement Model for Precipitation Nowcasting
-    * ⭐(Nature 2023) *NowcastNet*, [[Paper](https://www.nature.com/articles/s41586-023-06184-4)]
-      * 🍬 NowcastNet: ***the first*** : Skilful nowcasting of extreme precipitation with NowcastNet
-    * ⭐(Nature 2023) *Corrformer*, [[Paper](https://www.nature.com/articles/s42256-023-00667-9)]
-      * 🍬 Corrformer: ***the first*** : Interpretable weather forecasting for worldwide stations with a unified deep model
-    * ⭐(Nature 2023) *SRNDiff* [[SRNDiff](https://arxiv.org/pdf/2402.13737.pdf)] 
-      * 🍬 SRNDiff: : Short-term Rainfall Nowcasting with Condition Diffusion Model
-    * ⭐(Arxiv preprint 2023) *MetNet3*, [[Paper](https://arxiv.org/abs/2306.06079)]
-      * 🍬 MetNet3: ***the first*** : Deep Learning for Day Forecasts from Sparse Observations
-    * ⭐(Arxiv preprint 2023) *MetNet2*, [[Paper](https://www.nature.com/articles/s41467-022-32483-x)]
-      * 🍬 MetNet2: ***the first*** : Deep learning for twelve hour precipitation forecasts
-    * ⭐(Arxiv preprint 2023) *MetNet*, [[Paper](https://arxiv.org/abs/2003.12140)]
-      * 🍬 MetNet: ***the first*** : MetNet: A Neural Weather Model for Precipitation Forecasting
-    * ⭐(Arxiv preprint 2023) *PreDiff*, [[Paper](https://arxiv.org/abs/2307.10422)]
-      * 🍬 PreDiff: ***the first*** : PreDiff: Precipitation Nowcasting with Latent Diffusion Models
-    * ⭐(Arxiv preprint 2023) *DGMR*, [[Paper](https://arxiv.org/abs/2304.12891)]
-      * 🍬 DGMR: ***the first*** : Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification
-    * ⭐(AAAI) *SwinRDM*, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25105)]
-      * 🍬 SwinRDM: ***the first*** : SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting
-    * ⭐(MDPI) *GAN*, [[Paper](https://www.mdpi.com/2072-4292/14/1/24)]
-      * 🍬 GAN: ***the first*** : Towards a More Realistic and Detailed Deep-Learning-Based Radar Echo Extrapolation Method
-    * ⭐(GRL) *ω-GNN*, [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL106676)]
-      * 🍬 ω-GNN: ***the first*** : Coupling Physical Factors for Precipitation Forecast in China With Graph Neural Network
-    * ⭐(GRL) *MultiScaleGAN*, [[Paper](https://ieeexplore.ieee.org/document/9780397)] [[Code](https://github.com/luochuyao/MultiScaleGAN)]
-      * 🍬 MultiScaleGAN: ***the first*** : Experimental Study on Generative Adversarial Network for Precipitation Nowcasting
+## 📋 Table of Contents
 
+| # | Category | Description |
+|---|---|---|
+| 1 | [🌍 Medium-Range Forecast](#-1-medium-range-forecast-115-days) | Global/regional 1–15 day deterministic & ensemble forecast |
+| 2 | [⚡ NowCasting](#-2-nowcasting-06-hours) | 0–6 hour precipitation & radar echo extrapolation |
+| 3 | [🔬 Super Resolution / Downscaling](#-3-super-resolution--downscaling) | Spatial downscaling from NWP/climate model outputs |
+| 4 | [🔄 Data Assimilation](#-4-data-assimilation) | ML-based initial condition estimation |
+| 5 | [🌪️ Extreme Weather](#%EF%B8%8F-5-extreme-weather-incl-typhoon) | High-impact events including typhoon/tropical cyclone |
+| 6 | [🌡️ Seasonal & Climate](#%EF%B8%8F-6-seasonal--climate-forecast) | Sub-seasonal to seasonal (S2S) and climate simulation |
+| 7 | [🗜️ Data Compression](#%EF%B8%8F-7-weather-data-compression) | Compact latent representations for ERA5/CMIP6 |
+| 8 | [🏗️ Foundation Models](#%EF%B8%8F-8-atmospheric-foundation-models) | Large pre-trained multi-task atmospheric models |
 
-* *Seasonal*:
-  * ⭐(Arxiv preprint 2023) *S2S*, [[Paper](https://arxiv.org/abs/2312.09926)]
-    * 🍬 *FuXi-S2S: An accurate machine learning model for global subseasonal forecasts
-  * ⭐(Nature 2021) [[Paper](https://www.nature.com/articles/s43247-021-00225-4)]
-    * 🍬 Seasonal-Precip: ***the first*** :Training machine learning models on climate model output yields skillful interpretable seasonal precipitation forecasts
+---
 
-* *Climate*:
-  * ⭐(Nature 2019) *ENSO*, [[Paper](https://www.nature.com/articles/s41586-019-1559-7)]
-    * 🍬 ENSO: ***the first*** : MetNet: A Neural Weather Model for Precipitation Forecasting
-  * ⭐(Nature 2023) *Climate*,  [[Paper](https://arxiv.org/pdf/2302.10480.pdf)] 
-    * 🍬 Climate: ***the first*** : Climate Model Driven Seasonal Forecasting Approach with Deep Learning
+## 🗓️ Latest Updates
 
-* *Extreme*:
-  * ⭐(Nature 2019) *FuXi-Extreme*, [[Paper](https://arxiv.org/abs/2310.19822)]
-    * 🍬 FuXi-Extreme: ***the first*** : FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model
-     
-* *Typhoon*:
-  * ⭐(Arxiv 2024) *MSCAR*, [[Paper](https://arxiv.org/abs/2402.13270)]
-    * 🍬 MSCAR: ***the first*** : Global Tropical Cyclone Intensity Forecasting with Multi-modal Multi-scale Causal Autoregressive Model
-    * Tropical cyclone intensity forecasting: the MSCAR model incorporates causal relationships and operates on a large-scale multimodal dataset.
+| Date | Update |
+|---|---|
+| 2026-07 | Refactored into categorized `papers/` structure; added 29 new papers (2024–2026) |
+| 2025-08 | Added AlphaPre (CVPR 2025), FuXi-Regional, CRA5 |
+| 2024-02 | Initial release with Medium-Range, NowCasting, SR, DA categories |
 
-* *SR*:
-  * ⭐(Arxiv 2023) *Corr-Diff* [[Paper](https://arxiv.org/abs/2309.15214)]
-    * 🍬 Residual Corrective Diffusion Modeling for Km-scale Atmospheric Downscaling
-  * ⭐(Arxiv 2023) *FengWu-GHR* [[Paper](https://arxiv.org/abs/2402.00059)]
-    * 🍬 FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting
-  * ⭐(RMetS 2023) *Uformer* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4596)]
-    * 🍬 Uformer : Investigating transformer-based models for spatial downscaling and correcting biases of near-surface temperature and wind-speed forecasts.
-  * ⭐(Earth-Science Reviews 2023) ** [[Paper](https://www.sciencedirect.com/science/article/pii/S0012825222001945)]
-    * 🍬 A comprehensive review on deep learning based remote sensing image super-resolution methods
-  * ⭐(NeurIPS 2022) *RCMs* [[Paper](https://link.springer.com/article/10.1007/s00382-022-06343-9)]
-    * 🍬 RCMs : Regional climate model emulator based on deep learning: concept and first evaluation of a novel hybrid downscaling approach
-  * ⭐(NeurIPS 2021) *ESRGAN* [[Paper](https://www.climatechange.ai/papers/neurips2021/17)]
-    * 🍬 A comparative study of convolutional neural network models for wind field downscaling
-  * ⭐(Water Resources Research 2021) *SRDRN* [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR029308)]
-    * 🍬 Deep learning for daily precipitation and temperature downscaling
-  * ⭐(IEEE Transactions on Geoscience and Remote Sensing 2021) *PSD-Net* [[Paper](https://ieeexplore.ieee.org/document/9246532)]
-    * 🍬 Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network
-  * ⭐(Meteorological Applications 2020) *DeepRU* [[Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.1961)]
-    * 🍬 A comparative study of convolutional neural network models for wind field downscaling
-  * ⭐(Association for Computing Machinery 2020) *YNet* [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403366)]
-    * 🍬 Climate downscaling using ynet: a deep convolutional network with skip connections and fusion
-  * ⭐(Mathematical Problems in Engineering 2020) *CDN* [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403366](https://www.hindawi.com/journals/mpe/2020/7897824/)]
-    * 🍬 A climate downscaling deep learning model considering the multiscale spatial correlations and chaos of meteorological events
-  * ⭐(Journal of Applied Meteorology and Climatology 2020a) ** [[Paper](https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0057.1.xml)]
-    * 🍬 Deep-learning-based gridded downscaling of surface meteorological variables in complex terrain. Part i: daily maximum and minimum 2-m temperature
-  * ⭐(Journal of Applied Meteorology and Climatology 2020b) ** [[Paper](https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0058.1.xml)]
-    * 🍬 Deep-learning-based gridded downscaling of surface meteorological variables in complex terrain. Part i: daily maximum and minimum 2-m temperature
-  * ⭐(NeurIPS 2019) *PSD-Net* [[Paper](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_75.pdf)]
-    * 🍬 PSD-Net : Numerical Weather Model Super-Resolution
-  * ⭐(Theoretical and Applied Climatology 2019) ** [[Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3)]
-    * 🍬 Intercomparison of machine learning methods for statistical downscaling: the case of daily and extreme precipitation
-  * ⭐(Association for Computing Machinery 2017) *Deepsd* [[Paper](https://doi.org/10.1145/3097983.3098004)]
-    * 🍬 Deepsd: generating high resolution climate change projections through single image super-resolution. Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining
+---
 
-* *DA*
-  * ⭐(Arxiv preprint 2024) *FuXi DA* [[Paper](https://arxiv.org/abs/2404.08522)]
-    * 🍬 FuXi Weather: A data-to-forecast machine learning system for global weather
-  * ⭐(Arxiv preprint 2023) *FengWu-4DVar* [[Paper](https://arxiv.org/abs/2312.12455)]
-    * 🍬 FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation
+## 🌍 1. Medium-Range Forecast (1–15 Days)
 
-* *Compression*
-  * ⭐(Arxiv preprint 2024) *CRA5*  [[Paper](https://arxiv.org/abs/2405.03376)]
-    * 🍬 CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer
-  * ⭐(Arxiv preprint 2024) *FuXi-Regional*, [[Paper](https://arxiv.org/abs/2410.09109)]
-    * 🍬 FuXi-Regional: Compressing high-resolution data through latent representation encoding for downscaling large-scale AI weather forecast model
+→ **[Full list](./papers/01_medium_range.md)**
 
+**Highlights:** Pangu · GraphCast · FuXi · FengWu · Aurora · GenCast · NeuralGCM · AIFS · Stormer · FuXi-ENS · SEEDS
 
-[//]: # ([*Contact Me*]&#40;#head7&#41;)
+<details>
+<summary>Preview (click to expand)</summary>
 
-## <span id="head7"> *Contact Me* </span>
-* If you have any questions, please feel free to contact [Shrimponthekeyboard](https://zhengkai15.github.io/) ლ(╹◡╹ლ)
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [Pangu-Weather](./papers/01_medium_range.md) | Nature 2023 | 3D Earth-specific transformer |
+| [GraphCast](./papers/01_medium_range.md) | Science 2023 | GNN surpassing ECMWF HRES |
+| [Aurora](./papers/01_medium_range.md) | Nature 2025 | 1.3B-param foundation model |
+| [NeuralGCM](./papers/01_medium_range.md) | Nature 2024 | Hybrid physics+ML GCM |
+| [AIFS](./papers/01_medium_range.md) | ECMWF 2024 | First operational ML NWP |
+| [GenCast](./papers/01_medium_range.md) | Nature 2024 | Diffusion ensemble forecast |
+
+</details>
+
+---
+
+## ⚡ 2. NowCasting (0–6 Hours)
+
+→ **[Full list](./papers/02_nowcasting.md)**
+
+**Highlights:** NowcastNet · PreDiff · AlphaPre · DiffCast · CasCast · WoFSCast · StormCast
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [NowcastNet](./papers/02_nowcasting.md) | Nature 2023 | Physics-constrained GAN |
+| [PreDiff](./papers/02_nowcasting.md) | NeurIPS 2023 | Latent diffusion nowcasting |
+| [AlphaPre](./papers/02_nowcasting.md) | CVPR 2025 | Amplitude-phase disentanglement |
+| [DiffCast](./papers/02_nowcasting.md) | CVPR 2024 | Deterministic+stochastic diffusion |
+| [CasCast](./papers/02_nowcasting.md) | ICML 2024 | Cascaded extreme precip |
+| [WoFSCast](./papers/02_nowcasting.md) | GRL 2025 | Warning-scale convective ML |
+
+</details>
+
+---
+
+## 🔬 3. Super Resolution / Downscaling
+
+→ **[Full list](./papers/03_super_resolution.md)**
+
+**Highlights:** CorrDiff · FengWu-GHR · STVD · StormCast · DeepSD · SRDRN
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [CorrDiff](./papers/03_super_resolution.md) | arXiv 2023 | NVIDIA residual diffusion 25km→2km |
+| [STVD](./papers/03_super_resolution.md) | NeurIPS 2024 | Spatiotemporal video diffusion SR |
+| [FengWu-GHR](./papers/03_super_resolution.md) | arXiv 2024 | Km-scale global medium-range |
+
+</details>
+
+---
+
+## 🔄 4. Data Assimilation
+
+→ **[Full list](./papers/04_data_assimilation.md)**
+
+**Highlights:** FuXi-DA · FengWu-4DVar · DiffDA · Score-based DA · LDA
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [DiffDA](./papers/04_data_assimilation.md) | ICML 2024 | Diffusion-based sparse obs DA |
+| [LDA](./papers/04_data_assimilation.md) | Science Advances 2026 | Latent space variational DA |
+| [FengWu-4DVar](./papers/04_data_assimilation.md) | arXiv 2023 | ML + 4D-Var coupling |
+
+</details>
+
+---
+
+## 🌪️ 5. Extreme Weather (incl. Typhoon)
+
+→ **[Full list](./papers/05_extreme_weather.md)**
+
+**Highlights:** FuXi-Extreme · ExtremeCast · WoFSCast · StormCast · MSCAR · AIWP-TC
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [FuXi-Extreme](./papers/05_extreme_weather.md) | arXiv 2023 | Extreme rainfall+wind diffusion |
+| [ExtremeCast](./papers/05_extreme_weather.md) | arXiv 2024 | Asymmetric Exloss for extremes |
+| [MSCAR](./papers/05_extreme_weather.md) | arXiv 2024 | Multi-modal TC intensity forecast |
+
+</details>
+
+---
+
+## 🌡️ 6. Seasonal & Climate Forecast
+
+→ **[Full list](./papers/06_seasonal_climate.md)**
+
+**Highlights:** FuXi-S2S · NeuralGCM · ENSO-PhyNet · SEEDS · S2S-DL
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [FuXi-S2S](./papers/06_seasonal_climate.md) | Nat. Comm. 2024 | 42-day global ML forecast |
+| [NeuralGCM](./papers/06_seasonal_climate.md) | Nature 2024 | Climate simulation hybrid GCM |
+| [ENSO-PhyNet](./papers/06_seasonal_climate.md) | npj 2024 | 22-month ENSO skill |
+
+</details>
+
+---
+
+## 🗜️ 7. Weather Data Compression
+
+→ **[Full list](./papers/07_compression.md)**
+
+**Highlights:** CRA5 · FuXi-Regional · WLA
+
+| Model | Venue | Compression |
+|---|---|---|
+| [CRA5](./papers/07_compression.md) | arXiv 2024 | 226 TB → 0.7 TB (>300:1) |
+| [WLA](./papers/07_compression.md) | arXiv 2025 | 244 TB → 0.43 TB |
+| [FuXi-Regional](./papers/07_compression.md) | arXiv 2024 | Latent encoding for regional downscaling |
+
+---
+
+## 🏗️ 8. Atmospheric Foundation Models
+
+→ **[Full list](./papers/08_foundation_models.md)**
+
+**Highlights:** ClimaX · Aurora · Prithvi WxC · ESFM · WIND · Omni-Weather
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [Aurora](./papers/08_foundation_models.md) | Nature 2025 | 1.3B Microsoft atmos. foundation model |
+| [Prithvi WxC](./papers/08_foundation_models.md) | ICLR 2025 Workshop | IBM/NASA 2.3B, 160 variables |
+| [WIND](./papers/08_foundation_models.md) | arXiv 2026 | Zero-shot video diffusion prior |
+| [ESFM](./papers/08_foundation_models.md) | arXiv 2025 | Heterogeneous earth system FM |
+
+</details>
+
+---
+
+## 📬 Contact
+
+Questions or suggestions? Feel free to reach out via [Issues](https://github.com/zhengkai15/Awesome-Weather-Forecast/issues) or visit [zhengkai15.github.io](https://zhengkai15.github.io/) ლ(╹◡╹ლ)
