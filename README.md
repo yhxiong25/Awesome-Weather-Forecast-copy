@@ -36,6 +36,7 @@ A curated list of papers and resources on **AI-driven weather forecasting**, cov
 | 6 | [🌡️ Seasonal & Climate](#%EF%B8%8F-6-seasonal--climate-forecast) | Sub-seasonal to seasonal (S2S) and climate simulation |
 | 7 | [🗜️ Data Compression](#%EF%B8%8F-7-weather-data-compression) | Compact latent representations for ERA5/CMIP6 |
 | 8 | [🏗️ Foundation Models](#%EF%B8%8F-8-atmospheric-foundation-models) | Large pre-trained multi-task atmospheric models |
+| 9 | [🤖 LLM / Agent / Multimodal](#-9-llm-agent--multimodal-weather) | LLMs, agents, and multimodal models for weather science |
 
 ---
 
@@ -198,6 +199,27 @@ A curated list of papers and resources on **AI-driven weather forecasting**, cov
 | [Prithvi WxC](./papers/08_foundation_models.md) | ICLR 2025 Workshop | IBM/NASA 2.3B, 160 variables |
 | [WIND](./papers/08_foundation_models.md) | arXiv 2026 | Zero-shot video diffusion prior |
 | [ESFM](./papers/08_foundation_models.md) | arXiv 2025 | Heterogeneous earth system FM |
+
+</details>
+
+---
+
+## 🤖 9. LLM, Agent & Multimodal Weather
+
+→ **[Full list](./papers/09_llm_agent_multimodal.md)**
+
+**Highlights:** WeatherBench 2 · ClimSim · Omni-Weather · Zephyrus · AgentCaster · WeatherQA · Weather-R1 · ClimateChat
+
+<details>
+<summary>Preview (click to expand)</summary>
+
+| Model | Venue | Core Contribution |
+|---|---|---|
+| [WeatherBench 2](./papers/09_llm_agent_multimodal.md) | JAMES 2024 | Standard AI forecast evaluation vs ECMWF |
+| [ClimSim](./papers/09_llm_agent_multimodal.md) | NeurIPS 2023 Best Paper | 5.7B-sample ML parameterization dataset |
+| [Omni-Weather](./papers/09_llm_agent_multimodal.md) | arXiv 2025 | Multimodal radar generation + understanding |
+| [Zephyrus](./papers/09_llm_agent_multimodal.md) | arXiv 2025 | Tool-calling meteorology science agent |
+| [Weather-R1](./papers/09_llm_agent_multimodal.md) | ICASSP 2026 | RL-tuned multimodal reasoning VLM |
 
 </details>
 
