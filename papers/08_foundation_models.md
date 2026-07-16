@@ -16,10 +16,6 @@ Large-scale pre-trained models supporting multiple downstream weather and climat
   - 📄 [Paper](https://arxiv.org/abs/2409.13598) | 💻 [Code](https://huggingface.co/ibm-nasa-geospatial)
   - 👥 Mahesh Ramavajjala et al. (IBM / NASA)
 
-- **[Omni-Weather]** (arXiv 2025) — *First multimodal foundation model unifying radar weather generation and understanding, incorporating Chain-of-Thought reasoning.*
-  - 📄 [Paper](https://arxiv.org/abs/2512.21643)
-  - 👥 Chenghao Jiang et al.
-
 - **[ESFM]** (arXiv 2025) — *Earth System Foundation Model framework unifying heterogeneous data (ERA5 / CMIP6 / satellite / station) for multi-source pre-training.*
   - 📄 [Paper](https://arxiv.org/abs/2605.00850)
   - 👥 Jing Han et al.
