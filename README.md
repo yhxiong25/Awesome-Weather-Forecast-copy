@@ -37,7 +37,7 @@ A curated list of papers and resources on **AI-driven weather forecasting**, cov
 | 7 | [🗜️ Data Compression](#%EF%B8%8F-7-weather-data-compression) | Compact latent representations for ERA5/CMIP6 |
 | 8 | [🏗️ Foundation Models](#%EF%B8%8F-8-atmospheric-foundation-models) | Large pre-trained multi-task atmospheric models |
 | 9 | [🤖 LLM / Agent / Multimodal](#-9-llm-agent--multimodal-weather) | LLMs, agents, and multimodal models for weather science |
-
+| 10 | [🤖 LLM / Agent / Multimodal](#-9-llm-agent--multimodal-weather) | LLMs, agents, and multimodal models for weather science |
 ---
 
 ## 🗓️ Latest Updates
